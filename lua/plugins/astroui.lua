@@ -6,7 +6,7 @@ return {
   ---@type AstroUIOpts
   opts = {
     -- change colorscheme
-    colorscheme = "dracula",
+    colorscheme = "tokyonight-moon",
     highlights = {},
   },
 }
